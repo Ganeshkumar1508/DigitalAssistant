@@ -14,10 +14,9 @@ pip install pyttsx3
 ```python
 pip install SpeechRecognition
 ``` 
-4. pyaudio - provides Python bindings for PortAudio, the cross-platform audio I/O library
+4. pyaudio - *provides Python bindings for PortAudio, the cross-platform audio I/O library*
   
       downloading this package might get some errors through pypi website, If you face issues try :-
-      
-      ```pip install pipwin```
-      
-      ```pipwin install pyaudio```
+```python
+pip install pipwin```
+```pipwin install pyaudio```
