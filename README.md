@@ -5,7 +5,7 @@
   - Any Operating System with [Python](https://www.python.org/downloads/) latest version.
  ### PACKAGES USED
 ---
-1. - pyttsx3 - text to speech library
+1. pyttsx3 - text to speech library
 ```python
 
 pip install pyttsx3
