@@ -23,6 +23,10 @@ pip install pipwin
 ```python
 pipwin install pyaudio
 ```
+5. Wikipedia - *is a Python library that makes it easy to access and parse data from Wikipedia*
+```
+pip install wikipedia
+```
 
 
 
