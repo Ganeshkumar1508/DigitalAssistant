@@ -18,5 +18,11 @@ pip install SpeechRecognition
   
       downloading this package might get some errors through pypi website, If you face issues try :-
 ```python
-pip install pipwin```
-```pipwin install pyaudio```
+pip install pipwin
+```
+```python
+pipwin install pyaudio
+```
+
+
+
