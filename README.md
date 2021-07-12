@@ -5,12 +5,12 @@
   - Any Operating System with [Python](https://www.python.org/downloads/) latest version.
  ### PACKAGES USED
 ---
-1. pyttsx3 - *text to speech library*
+1. pyttsx3 - *text to speech library.*
 ```
 pip install pyttsx3
 ``` 
-2. datetime - used to get the current date and time & it is a pre-defined library
-3. Speech Recognition - *library for performing speech recognition through online and offline*
+2. datetime - *used to get the current date and time & it is a pre-defined library.*
+3. Speech Recognition - *library for performing speech recognition through online and offline.*
 ```
 pip install SpeechRecognition
 ``` 
@@ -23,10 +23,30 @@ pip install pipwin
 ```
 pipwin install pyaudio
 ```
-5. Wikipedia - *is a Python library that makes it easy to access and parse data from Wikipedia*
+5. Wikipedia - *is a Python library that makes it easy to access and parse data from Wikipedia.*
 ```
 pip install wikipedia
 ```
-
+6. smtplib - *defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listner daemon.*
+7. pywhatkit - *is a Python library for Sending whatsapp message at certain time, it has several other features too.*
+```
+pip install pywhatkit
+```
+8. Wolframalpha - *News api.*
+```
+pip install wolframalpha
+```
+9. pyautogui - *This package will let python to control the mouse and keyboard and other GUI automation tasks.*
+```
+pip install PyAutoGUI
+```
+10. psutil - *cross-platform lib for process and system monitering in Python.*
+```
+pip install psutil
+```
+11. pyjokes - *a basic joke library for python.*
+```
+pip install pyjokes
+```
 
 
